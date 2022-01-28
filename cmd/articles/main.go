@@ -1,5 +1,0 @@
-package articles
-
-func main() {
-
-}
